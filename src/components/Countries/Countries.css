@@ -11,3 +11,6 @@
 .non-visited {
   background-color: beige;
 }
+.flag-container img {
+  width: 100px;
+}
